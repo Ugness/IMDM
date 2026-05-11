@@ -1,0 +1,17 @@
+name: tiny
+type: ddit
+hidden_size: 256
+noise_dim: 256 # For IMDM
+cond_dim: 128
+length: 1024
+n_blocks: 8
+n_heads: 8
+scale_by_sigma: True
+dropout: 0.1
+tie_word_embeddings: False
+vocab_lookup: True
+qk_norm: False
+softcap: -1
+embedding_mode: None
+embedding_clip: True
+temp_curriculum_use_log: False

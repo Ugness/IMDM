@@ -1,0 +1,17 @@
+name: synthetic
+type: ddit
+hidden_size: 128
+noise_dim: 128 # For IMDM
+cond_dim: 128
+length: 10
+n_blocks: 4
+n_heads: 4
+scale_by_sigma: True
+dropout: 0.0
+tie_word_embeddings: False
+vocab_lookup: True
+qk_norm: False
+softcap: -1
+embedding_mode: None
+embedding_clip: True
+temp_curriculum_use_log: False

@@ -1,0 +1,28 @@
+name: im-sdtt
+backbone: dit  # dit / dimamba / hf_dit
+parameterization: subs
+time_conditioning: False
+T: 0  # 0 (continuous time) / 1000 
+subs_masking: True
+causal_attention: False
+ignore_bos: False
+loss_type: elbo
+
+# For IMDM
+alpha_min: 0.0
+alpha_max: 1.0
+noise_type: rand # rand / randn / learnable
+as_mdlm: False
+num_mask: -1
+noise_scale: 1.0
+
+# For IM-SDTT
+distill_mode: kl-bwd
+num_distill_steps: 2
+min_num_sampling_steps: 1
+grow_dt_every: 10_000
+orig_num_sampling_steps: 1024
+loss_precision: null
+reset_optimizer_on_growth: False
+use_ema_on_growth: False
+sdtt_fix_eps: true

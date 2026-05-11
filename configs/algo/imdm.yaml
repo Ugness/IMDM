@@ -1,0 +1,17 @@
+name: imdm
+backbone: dit  # dit / dimamba / hf_dit
+parameterization: subs
+time_conditioning: False
+T: 0  # 0 (continuous time) / 1000 
+subs_masking: True
+causal_attention: False
+ignore_bos: False
+loss_type: elbo
+
+# For IMDM
+alpha_min: 0.0
+alpha_max: 1.0
+noise_type: rand # rand / randn / learnable
+as_mdlm: False
+num_mask: -1
+noise_scale: 1.0
