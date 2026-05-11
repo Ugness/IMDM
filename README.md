@@ -157,14 +157,5 @@ To get started, follow these steps:
 This repository is built upon the codebases of **[Duo](https://github.com/s-sahoo/duo)** and **[ReDi](https://github.com/Ugness/ReDi)**.
 
 ## BibTeX
-```bibtex
-@misc{yoo2026imdm,
-      title={Infinite Mask Diffusion for Few-Step Distillation}, 
-      author={Jaehoon Yoo and Wonjung Kim and Chanhyuk Lee and Seunghoon Hong},
-      year={2026},
-      eprint={2600.00000},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2600.00000}, 
-}
-```
+
+Will be updated Soon
