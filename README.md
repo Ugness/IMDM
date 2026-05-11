@@ -157,5 +157,11 @@ To get started, follow these steps:
 This repository is built upon the codebases of **[Duo](https://github.com/s-sahoo/duo)** and **[ReDi](https://github.com/Ugness/ReDi)**.
 
 ## BibTeX
-
-Will be updated Soon
+```bibtex
+@inproceedings{yoo2026imdm,
+      title={Infinite Mask Diffusion for Few-Step Distillation}, 
+      author={Yoo, Jaehoon and Kim, Wonjung and Lee, Chanhyuk and Hong, Seunghoon},
+      year={2026},
+      booktitle={ICML}
+}
+```
