@@ -6,7 +6,7 @@
 
 KAIST
 
-**[[Project Page]](https://Ugness.github.io/official_imdm)** | **[[Paper]](https://arxiv.org/abs/2600.00000)** | **[[Checkpoint]](https://huggingface.co/Ugness/IMDM)**
+**[[Project Page]](https://Ugness.github.io/official_imdm)** | **[[Paper]](https://arxiv.org/abs/2605.10518)** | **[[Checkpoint]](https://huggingface.co/Ugness/IMDM)**
 
 <!-- <a href="https://arxiv.org/abs/2600.00000"><img src="https://img.shields.io/badge/arXiv-IMDM-red" alt="arXiv"></a>
 <a href="https://Ugness.github.io/official_imdm"><img src="https://img.shields.io/badge/Project_Page-IMDM-blue" alt="Project Page"></a>
