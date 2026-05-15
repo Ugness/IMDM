@@ -71,7 +71,7 @@ To get started, follow these steps:
     # Download from Hugginface(https://huggingface.co/Ugness/IMDM)
 
     # 2. Pretrained models from MDLM paper(OWT)
-    # Download official MDLM checkpoint from Google Drive folder(https://drive.google.com/drive/folders/1JpqFM8XRvifwIkjWPfMyuDvu41r1yk0t?usp=share_link).
+    # Download official MDLM checkpoint from Google Drive folder(https://drive.google.com/drive/folders/16LuuptK7Xfk-vzhQYZBZ0SA-B-BFluau?usp=sharing).
 
     # put checkpoints into ./outputs/lm1b, ./outputs/owt, ./outputs/owt_large.
     ```
